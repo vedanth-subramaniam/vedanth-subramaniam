@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vedanth.1121@gmail.com)
 
 ![Vedanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<vedanth-subramaniam>&theme=<radical>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
