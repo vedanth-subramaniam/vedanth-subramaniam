@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 ![Vedanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-
