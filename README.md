@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedanth-subramaniam-8a0a07197) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vedanth.1121@gmail.com)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam)](https://github.com/anuraghazra/github-readme-stats)
+![Vedanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&theme=radical)
