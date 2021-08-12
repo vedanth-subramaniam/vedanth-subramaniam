@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vedanth.1121@gmail.com)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam)](https://github.com/anuraghazra/github-readme-stats)
