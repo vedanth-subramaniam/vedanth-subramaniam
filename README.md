@@ -8,7 +8,10 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. <br/><br/>
+-I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE.
+-I am currently working as an undergraduate research assistant as Solariliion Foundation.
+-I did my summer internship at Mphasis Next Labs (May 2021 - July 2021).
+<br/><br/>
 
 
 
