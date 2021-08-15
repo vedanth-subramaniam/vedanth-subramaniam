@@ -1,21 +1,30 @@
-<!--
-**vedanth-subramaniam/vedanth-subramaniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey, I am Vedanth</a> </h1>
+</h1>
 
-Here are some ideas to get you started:
+#### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/vedanth-subramaniam) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/vedanth-subramaniam-8a0a07197/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:vedanth.1121@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, I am Vedanth Subramaniam
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedanth-subramaniam-8a0a07197) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vedanth.1121@gmail.com)
 
-![Vedanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. <br/><br/>
 
+
+
+
+## ⚡️ A Few Quick Facts
+
+- 🌱 I’m currently learning Java and DevOps.
+- I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 Backend Development
+- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+
+
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&theme=react&line_height=27&layout=compact" />
+</p>
