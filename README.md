@@ -20,7 +20,7 @@ I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE. I'
   - Cloud computing
   - DevOps
   - Deep learning
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1r2mjda5bn8Dt7331yRkjeSyyK8kAR12P/view?usp=sharing)
 
 
 ### 🚀 Quick Stats
