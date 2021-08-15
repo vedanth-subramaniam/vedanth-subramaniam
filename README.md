@@ -16,15 +16,14 @@ I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE. I'
 ## ⚡️ A Few Quick Facts
 
 - 🌱 I’m currently learning Java and DevOps.
-- I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 Backend Development
+- I'm interested in
+  - Cloud computing
+  - DevOps
+  - Deep learning
 - 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&theme=react&line_height=27&layout=compact" />
 </p>
