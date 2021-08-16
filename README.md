@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:vedanth.1121@gmail.com)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me... <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
 - I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE.
 - I am currently working as an **Undergraduate Research Assistant** at **Solariliion Foundation**.
