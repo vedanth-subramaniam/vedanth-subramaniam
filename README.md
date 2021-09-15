@@ -19,7 +19,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning Java and DevOps.
+- 🌱 I’m currently learning Java and NodeJS.
 - I'm interested in
   - Data Science
   - DevOps
