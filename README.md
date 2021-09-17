@@ -19,12 +19,13 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning Java and NodeJS.
+- 🌱 I’m currently learning Java and Nodejs.
 - I'm interested in
-  - Data Science
+  - Full Stack
   - DevOps
   - Deep learning
-- 📙 Check out my [Resume]()
+  - Big Data Analytics
+<!--- 📙 Check out my [Resume]() --->
 
 
 ### 🚀 Quick Stats
