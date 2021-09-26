@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Java and Nodejs.
 - I'm interested in
-  - Full Stack
+  - Backend Development
   - DevOps
   - Deep learning
   - Big Data Analytics
