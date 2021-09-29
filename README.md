@@ -20,7 +20,6 @@
   - Backend Development
   - DevOps
   - Deep learning
-  - Big Data Analytics
 <!--- 📙 Check out my [Resume]() --->
 
 
