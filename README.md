@@ -25,11 +25,12 @@
 
 ### 🚀 Quick Stats
 
+<!---
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 <br/>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&theme=react&line_height=27&layout=compact" />
 </div>
-
+-->
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=vedanth-subramaniam) -->
