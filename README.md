@@ -22,10 +22,9 @@
   - Deep learning
 <!--- 📙 Check out my [Resume]() --->
 
-
+<!---
 ### 🚀 Quick Stats
 
-<!---
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 <br/>
