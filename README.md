@@ -18,7 +18,7 @@
 - I’m currently learning Java and Nodejs.
 - I'm interested in
   - Backend Development
-  - DevOps
+  - Data Science
   - Deep learning
 <!--- 📙 Check out my [Resume]() --->
 
