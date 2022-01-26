@@ -13,7 +13,7 @@
 - I did my summer internship at Mphasis Next Labs (May 2021 - July 2021).
 <br/><br/>
 
-## ⚡️ A Few Quick Facts
+<!-- ## ⚡️ A Few Quick Facts
 
 - I’m currently learning Java and Nodejs.
 - I'm interested in
@@ -31,5 +31,6 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanth-subramaniam&theme=react&line_height=27&layout=compact" />
 </div>
+-->
 -->
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=vedanth-subramaniam) -->
