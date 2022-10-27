@@ -11,8 +11,8 @@
 ### A little about me... <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
 - I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE.
-- I am currently working as an **Undergraduate Research Assistant** at **Solariliion Foundation**.
-- I did my summer internship at Mphasis Next Labs (May 2021 - July 2021).
+- I am currently working as a **Software Developer** at **BNY Mellon Technology**. 
+
 <br/><br/>
 
 <!-- ## ⚡️ A Few Quick Facts
