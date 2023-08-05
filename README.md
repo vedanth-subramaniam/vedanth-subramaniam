@@ -1,20 +1,22 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey, I am Vedanth</a> </h1>
 </h1>
 
+
 #### 📬 Find me at
 <!---
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/vedanth-subramaniam) 
 -->
+<!---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/vedanth-subramaniam-8a0a07197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:vedanth.1121@gmail.com)
-
-### A little about me... <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
+--->
+<!---
+### A little about me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 - I'm an **Undergrad Student🎓 College of Engineering, Guindy** pursuing CSE.
 - I am currently working as a **Software Developer** at **BNY Mellon Technology**. 
 
 <br/><br/>
-
 <!-- ## ⚡️ A Few Quick Facts
 
 - I’m currently learning Java and Nodejs.
