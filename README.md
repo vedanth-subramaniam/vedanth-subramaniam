@@ -1,15 +1,16 @@
 <!-- ![Header](https://github.com/staticshreyas/staticshreyas/blob/master/_Logo.png "Header") -->
 
 <h1 align="center">Hi 👋, I'm Vedanth Subramaniam</h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/vedanth-subramaniam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
 <a href="mailto:vedanths2000@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
 </p>
 
-- 🤖 Let's take a sneak peek into my story!
+Aspiring Software Engineer pursuing a Master's in Computer Science at USC. Experienced in full-stack development and machine learning, with a proven ability to deliver impactful software solutions and optimize performance. At BNY Mellon, developed and deployed RESTful APIs, revamped web interfaces, and optimized database queries. Passionate about Machine Learning, Deep Learning, AWS, and Generative AI, eager to contribute to innovative projects and advance my career in the tech industry.
 
 - 👉 My skills spans over Web Development, Machine Learning and AI.
 
-- 💡 I am currently developing Generative AI applications. 
+- 💡 I am currently developing Generative AI applications using LLMs. 
 
 - 📊 I worked as a Software Developer at BNY Mellon. 
 
@@ -31,9 +32,9 @@
 
 <h1 align="center"> 🔥 Statistics </h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&locale=en" alt="vedanth-subramaniam" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanth-subramaniam&show_icons=true&locale=en" alt="vedanth-subramaniam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanth-subramaniam&" alt="vedanth-subramaniam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanth-subramaniam&" alt="vedanth-subramaniam" /></p>
 
 
 </p>
